@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>The Slap | Hollywood Arts</title>
+    
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta content="Go inside Hollywood Arts High and get all the gossip from the "Victorious" gang: Tori, Trina, Cat, Beck, Jade, Andre, Robbie, Rex, and more." name="description">
+
+
+
+    // Link to all theslap.com content vv
+    // https://victorious.fandom.com/wiki/Category:TheSlap.com
+
+  
+    // <link rel="icon" href="[SLAP ICON ON TAB HERE]">
+
+	  // <!-- link the webpage's stylesheet -->
+	  // <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  # <script src="/script.js" defer></script>
+   #  <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+  
+  </head>
+  
+  <body>
+    <h1>Personal Blog</h1>
+
+    <!-- Navigation bar -->
+    <nav>
+      <ul>
+        <li>
+          <a href="[LINK]">Home</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Profiles</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Clips</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Pix</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Tunes</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Games</a>
+        </li>
+        
+        <li>
+          <a href="[LINK]">Search</a>
+        </li>
+      </ul>
+    </nav>
+
+   
+  </body>
+
+  
+</html>
