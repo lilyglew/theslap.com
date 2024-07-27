@@ -1,5 +1,4 @@
 # theslap.com
-recreating theslap.com in an offline mode
 
 this will most likely be a very VERY long-term project i work on, and will be the most extensive project i've ever created so far. with an intermediate knowledge of website coding via HTML and CSS (i'm a bit rusty on JavaScript), i decided to use my passion for web design and challenge the limits of my knowledge by doing something no one else on the internet has done.
 
