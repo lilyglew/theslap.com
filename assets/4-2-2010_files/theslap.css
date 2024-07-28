@@ -25,7 +25,7 @@ div#fancy_loading div {
 	left: 0;
 	width: 40px;
 	height: 480px;
-	background: transparent url('assets/misc important site images/fancy_progress.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_progress.png') no-repeat;
 }
 
 div#fancy_outer {
@@ -78,7 +78,7 @@ div#fancy_close {
 	right: -15px;
 	height: 30px;
 	width: 30px;
-	background: url('assets/misc important site images/fancy_closebox.png') top left no-repeat;
+	background: url('assets/important_site_images/fancy_closebox.png') top left no-repeat;
 	cursor: pointer;
 	z-index: 181;
 	display: none;
@@ -131,12 +131,12 @@ span.fancy_ico {
 
 span#fancy_left_ico {
 	left: -9999px;
-	background: transparent url('assets/misc important site images/fancy_left.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_left.png') no-repeat;
 }
 
 span#fancy_right_ico {
 	right: -9999px;
-	background: transparent url('assets/misc important site images/fancy_right.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_right.png') no-repeat;
 }
 
 a#fancy_left:hover, a#fancy_right:hover {
@@ -186,7 +186,7 @@ div#fancy_bg_n {
 	left: 0;
 	width: 100%;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_n.png') repeat-x;
+	background: transparent url('assets/important_site_images/fancy_shadow_n.png') repeat-x;
 }
 
 div#fancy_bg_ne {
@@ -194,14 +194,14 @@ div#fancy_bg_ne {
 	right: -20px;
 	width: 20px;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_ne.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_shadow_ne.png') no-repeat;
 }
 
 div#fancy_bg_e {
 	right: -20px;
 	height: 100%;
 	width: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_e.png') repeat-y;
+	background: transparent url('assets/important_site_images/fancy_shadow_e.png') repeat-y;
 }
 
 div#fancy_bg_se {
@@ -209,7 +209,7 @@ div#fancy_bg_se {
 	right: -20px;
 	width: 20px;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_se.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_shadow_se.png') no-repeat;
 }
 
 div#fancy_bg_s {
@@ -217,7 +217,7 @@ div#fancy_bg_s {
 	left: 0;
 	width: 100%;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_s.png') repeat-x;
+	background: transparent url('assets/important_site_images/fancy_shadow_s.png') repeat-x;
 }
 
 div#fancy_bg_sw {
@@ -225,14 +225,14 @@ div#fancy_bg_sw {
 	left: -20px;
 	width: 20px;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_sw.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_shadow_sw.png') no-repeat;
 }
 
 div#fancy_bg_w {
 	left: -20px;
 	height: 100%;
 	width: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_w.png') repeat-y;
+	background: transparent url('assets/important_site_images/fancy_shadow_w.png') repeat-y;
 }
 
 div#fancy_bg_nw {
@@ -240,7 +240,7 @@ div#fancy_bg_nw {
 	left: -20px;
 	width: 20px;
 	height: 20px;
-	background: transparent url('assets/misc important site images/fancy_shadow_nw.png') no-repeat;
+	background: transparent url('assets/important_site_images/fancy_shadow_nw.png') no-repeat;
 }
 
 div#fancy_title {
@@ -268,18 +268,18 @@ div#fancy_title table td {
 td#fancy_title_left {
 	height: 32px;
 	width: 15px;
-	background: transparent url('assets/misc important site images/fancy_title_left.png') repeat-x;
+	background: transparent url('assets/important_site_images/fancy_title_left.png') repeat-x;
 }
 
 td#fancy_title_main {
 	height: 32px;
-	background: transparent url('assets/misc important site images/fancy_title_main.png') repeat-x;
+	background: transparent url('assets/important_site_images/fancy_title_main.png') repeat-x;
 }
 
 td#fancy_title_right {
 	height: 32px;
 	width: 15px;
-	background: transparent url('assets/misc important site images/fancy_title_main.png') repeat-x;
+	background: transparent url('assets/important_site_images/fancy_title_main.png') repeat-x;
 }
 
 .dd {
@@ -300,7 +300,7 @@ td#fancy_title_right {
 	height:16px;
 }
 .dd .ddTitle span.arrow {
-	background:url(assets/misc important site images/dd_arrow.gif) no-repeat 0 0; float:right; display:inline-block;width:16px; height:16px; cursor:pointer;
+	background:url(assets/important_site_images/dd_arrow.gif) no-repeat 0 0; float:right; display:inline-block;width:16px; height:16px; cursor:pointer;
 }
 
 .dd .ddTitle span.textTitle {text-indent:1px; overflow:hidden; line-height:16px;}
@@ -457,7 +457,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/next-horizontal.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/next-horizontal.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-next-horizontal:hover {
@@ -482,7 +482,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/prev-horizontal.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/prev-horizontal.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-prev-horizontal:hover {
@@ -510,7 +510,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/next-vertical.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/next-vertical.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-next-vertical:hover {
@@ -535,7 +535,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/prev-vertical.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/prev-vertical.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-prev-vertical:hover {
@@ -565,7 +565,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/gallery_controls_sprite_last.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/gallery_controls_sprite_last.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-last-horizontal:hover {
@@ -590,7 +590,7 @@ s
     width: 32px;
     height: 32px;
     cursor: pointer;
-    background: transparent url(assets/misc important site images/gallery_controls_sprite_first.png) no-repeat 0 0;
+    background: transparent url(assets/important_site_images/gallery_controls_sprite_first.png) no-repeat 0 0;
 }
 
 .jcarousel-skin-tango .jcarousel-first-horizontal:hover {
