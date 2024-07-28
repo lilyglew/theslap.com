@@ -4,7 +4,7 @@
 /* ========================================================================================================== */
 
 #content_container #s_right_now {
-	background:transparent url('assets/misc important site images/rightnowbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/rightnowbar_bg.png') no-repeat 0 0;
   width: 219px;
   height: 414px;
   display: block;
@@ -46,7 +46,7 @@
   margin: 10px 16px 0 10px;
   padding: 0 30px 0 24px;
   height: 150px;
-  list-style-image: url('assets/misc important site images/dot.png');
+  list-style-image: url('assets/important_site_images/dot.png');
   font-size: 1.2em;
 }
 
@@ -75,7 +75,7 @@
 }
 
 #content_container #s_fun_facts {
-	background:transparent url('assets/misc important site images/funfactsbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/funfactsbar_bg.png') no-repeat 0 0;
   width: 744px;
   height: 93px;
   display: block;
@@ -95,7 +95,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px 0px;
   text-decoration:none;
 }
 
@@ -104,7 +104,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px -14px;
   text-decoration:none;
 }
 
@@ -113,7 +113,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px 0px;
   text-decoration:none;
 }
 
@@ -122,7 +122,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px -14px;
   text-decoration:none;
 }
 
@@ -135,7 +135,7 @@
 }
 
 #content_container #adv_hot_stuff #s_new_stuff {
-	background:transparent url('assets/misc important site images/newstuffbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/newstuffbar_bg.png') no-repeat 0 0;
   width: 744px;
   height: 336px;
   margin: 1px 0 0 0;
@@ -156,7 +156,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px 0px;
   text-decoration:none;
 }
 
@@ -165,7 +165,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px -14px;
   text-decoration:none;
 }
 
@@ -174,7 +174,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px 0px;
   text-decoration:none;
 }
 
@@ -183,7 +183,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px -14px;
   text-decoration:none;
 }
 
@@ -192,7 +192,7 @@
   float:left;
   height:10px;
   width:25px;
-  background: url('assets/misc important site images/current.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/current.png') no-repeat 0px 0px;
   text-decoration:none;
   margin: 2px;
 }
@@ -202,7 +202,7 @@
   float:left;
   height:10px;
   width:23px;
-  background: url('assets/misc important site images/no_current.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/no_current.png') no-repeat 0px 0px;
   text-decoration:none;
   margin: 2px;
 }
@@ -246,7 +246,7 @@
 }
 
 #content_container #s_hot_pages {
-	background:transparent url('assets/misc important site images/hotpagesbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/hotpagesbar_bg.png') no-repeat 0 0;
   width: 974px;
   height: 145px;
   margin: -14px 0 2px 0;
@@ -256,7 +256,7 @@
 }
 
 #content_container #s_hot_pages #frame {
-	background:transparent url('assets/misc important site images/frame.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/frame.png') no-repeat 0 0;
   width: 136px;
   height: 99px;
   margin: 34px 0 0 0;
@@ -279,7 +279,7 @@
 }
 
 #content_container #s_hot_pages #frame #rating {
-  background:transparent url('assets/misc important site images/rating.png') no-repeat 0 0;
+  background:transparent url('assets/important_site_images/rating.png') no-repeat 0 0;
   height: 23px;
   width: 23px;
   margin: 72px 8px 0 0;
@@ -289,7 +289,7 @@
 
 
 #content_container #s_photo {
-	background:transparent url('assets/misc important site images/photobar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/photobar_bg.png') no-repeat 0 0;
   width: 217px;
   height: 279px;
   margin: 0px 7px 0 0;
@@ -298,7 +298,7 @@
 }
 
 #content_container #s_photo #mouth {
-	background:transparent url('assets/misc important site images/mouth.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/mouth.png') no-repeat 0 0;
 	width: 208px;
 	height: 80px;
 	float: left;
@@ -357,7 +357,7 @@
   float:left;
   height:32px;
   width:40px;
-  background: url('assets/misc important site images/go.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/go.png') no-repeat 0px 0px;
   text-decoration:none;
 }
 
@@ -366,7 +366,7 @@
   float:left;
   height:32px;
   width:40px;
-  background: url('assets/misc important site images/go_hover.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/go_hover.png') no-repeat 0px 0px;
   text-decoration:none;
 }
 
@@ -376,7 +376,7 @@
 
 
 #content_container #s_game_month {
-	background:transparent url('assets/misc important site images/newestgamesbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/newestgamesbar_bg.png') no-repeat 0 0;
   width: 435px;
   height: 279px;
   margin: 0px 2px 0 0;
@@ -397,7 +397,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px 0px;
   text-decoration:none;
 }
 
@@ -406,7 +406,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat 0px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat 0px -14px;
   text-decoration:none;
 }
 
@@ -415,7 +415,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px 0px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px 0px;
   text-decoration:none;
 }
 
@@ -424,7 +424,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/arrow_control.png') no-repeat -20px -14px;
+  background: url('assets/important_site_images/arrow_control.png') no-repeat -20px -14px;
   text-decoration:none;
 }
 
@@ -434,7 +434,7 @@
 }
 
 #content_container #photo_gallery {
-	background:transparent url('assets/misc important site images/rexphotogallerybar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/rexphotogallerybar_bg.png') no-repeat 0 0;
   width: 306px;
   height: 279px;
   margin: 0;
@@ -447,7 +447,7 @@
 }
 
 #content_container #s_sneak {
-	background:transparent url('assets/misc important site images/sneakbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/sneakbar_bg.png') no-repeat 0 0;
   width: 959px;
   height: 253px;
   float: left;
@@ -457,7 +457,7 @@
 }
 
 #content_container #s_sneak #box {
-	background:transparent url('assets/misc important site images/sneakbox_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/sneakbox_bg.png') no-repeat 0 0;
   width: 215px;
   height: 232px;
   float: left;
@@ -485,7 +485,7 @@
 }
 
 #content_container #s_slamp {
-	background:transparent url('assets/misc important site images/slampbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/slampbar_bg.png') no-repeat 0 0;
   width: 215px;
   height: 227px;
   float: left;
@@ -513,7 +513,7 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/slampgo.png') no-repeat 0px 2px;
+  background: url('assets/important_site_images/slampgo.png') no-repeat 0px 2px;
   text-decoration:none;
 }
 
@@ -522,12 +522,12 @@
   float:left;
   height:14px;
   width:18px;
-  background: url('assets/misc important site images/slampgo.png') no-repeat 0px -11px;
+  background: url('assets/important_site_images/slampgo.png') no-repeat 0px -11px;
   text-decoration:none;
 }
 
 #content_container #s_link {
-	background:transparent url('assets/misc important site images/sitelinksbar_bg.png') no-repeat 0 0;
+	background:transparent url('assets/important_site_images/sitelinksbar_bg.png') no-repeat 0 0;
   width: 745px;
   height: 227px;
   float: left;
